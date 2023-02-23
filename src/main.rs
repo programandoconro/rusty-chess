@@ -1,51 +1,77 @@
-fn chatgptmain() {
-    let mut board: Vec<Vec<i32>> = Vec::new(); // or let mut board = vec![];
+use yew::prelude::*;
 
-    for i in 1..=64 {
-        // remainder will be one every 8 times, 1 % 8 == 1, 9 % 8 == 1, 17 % 8 == 1 ...
-        if i % 8 == 1 {
-            board.push(Vec::new() /*or vec![] */);
+type Board = Vec<Vec<String>>;
+
+fn create_board(flipped: bool) -> Board {
+    let mut board: Board = Vec::new();
+    let columns: Vec<char> = vec!['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+    let rows: Vec<char> = vec!['1', '2', '3', '4', '5', '6', '7', '8'];
+    if flipped {
+        for row in rows {
+            board.push(Vec::new());
+            for column in &columns {
+                let mut square = String::new();
+                square.push(*column);
+                square.push(row);
+                let len: usize = board.len();
+                board[len - 1].push(square);
+                //web_sys::console::log_1(&square.into());
+            }
         }
-        let len: usize = board.len(); // usize is used to hold big or unknow numbers
-        board[len - 1].push(i);
+    } else {
+        let columns_reversed: Vec<char> = columns.into_iter().rev().collect();
+        for row in rows.into_iter().rev() {
+            board.push(Vec::new());
+            for column in &columns_reversed {
+                let mut square = String::new();
+                square.push(*column);
+                square.push(row);
+                let len: usize = board.len();
+                board[len - 1].push(square);
+            }
+        }
     }
 
-    println!("{:?}", board);
+    board
 }
 
-fn matrix2d() {
-    let mut matrix: Vec<Vec<i32>> = Vec::new(); // or vec![]
+#[function_component]
+fn App() -> Html {
+    let is_flipped = use_state(|| false);
 
-    for i in 1..=64 {
-        if i % 8 == 1 {
-            matrix.push(Vec::new());
+    let onclick: Callback<MouseEvent> = {
+        let is_flipped = is_flipped.clone();
+        web_sys::console::log_1(&is_flipped.to_string().into());
+        Callback::from(move |_| match *is_flipped {
+            true => is_flipped.set(false),
+            false => is_flipped.set(true),
+        })
+    };
+
+    let render_squares = |squares: &Vec<String>| -> Html {
+        html! {
+            <tr>
+                {
+                    for squares.iter().map(|square| html!{
+                        <td>{square}</td>
+                    })
+                }
+            </tr>
         }
-        let len: usize = matrix.len();
-        matrix[len - 1].push(i);
+    };
+
+    html! {
+        <>
+        <table>
+            {
+                for create_board(*is_flipped).iter().map(render_squares).rev()
+            }
+        </table>
+        <button onclick={onclick}>{"Flip"}</button>
+        </>
     }
-    println!("{:?}", matrix);
-}
-
-// this was my first try
-fn mymain() {
-    let mut board: Vec<Vec<i32>> = Vec::new();
-    let mut counter = 0;
-
-    for i in 1..=8 {
-        let mut row: Vec<i32> = Vec::new();
-        row.push(counter + i);
-        for _j in 1..=7 {
-            counter = counter + 1;
-            row.push(counter + i);
-        }
-        board.push(row);
-    }
-
-    println!("{:?}", board);
 }
 
 fn main() {
-    mymain();
-    chatgptmain();
-    matrix2d();
+    yew::Renderer::<App>::new().render();
 }
