@@ -43,7 +43,7 @@ fn App() -> Html {
             <tr>
                 {
                     for squares.iter().map(|square| html!{
-                        <td>{square}</td>
+                        <td><p>{square}</p></td>
                     })
                 }
             </tr>
@@ -51,14 +51,16 @@ fn App() -> Html {
     };
 
     html! {
-        <>
+        <div>
         <table>
             {
                 for create_board(*is_flipped).iter().map(render_squares).rev()
             }
         </table>
+        <aside>
         <button onclick={onclick}>{"Flip"}</button>
-        </>
+        </aside>
+        </div>
     }
 }
 

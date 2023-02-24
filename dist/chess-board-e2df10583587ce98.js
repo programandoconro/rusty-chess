@@ -626,7 +626,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('chess-board-38f19dc8113452b9_bg.wasm', import.meta.url);
+        input = new URL('chess-board-e2df10583587ce98_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 

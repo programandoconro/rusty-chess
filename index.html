@@ -9,15 +9,16 @@
       background-color: black;
       color: white;
     }
+    div {
+      display: flex;
+    }
     table {
-      width: 100%;
       aspect-ratio: 1 /1;
+      width: 100vw;
+      max-width: 100vh;
     }
     td {
       color: black;
-      border: solid;
-      border-color: gray;
-      border-width: 1px;
       padding: 0;
       margin: 0;
       background-color: white;
@@ -25,6 +26,10 @@
     tr:nth-child(odd) td:nth-child(even),
     tr:nth-child(even) td:nth-child(odd) {
       background: green;
+    }
+    p {
+      position: absolute;
+      font-size: calc(0.25rem + 1.25vmin);
     }
   </style>
 </html>
