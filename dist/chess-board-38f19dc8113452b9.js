@@ -583,11 +583,11 @@ function getImports() {
     imports.wbg.__wbindgen_throw = function(arg0, arg1) {
         throw new Error(getStringFromWasm0(arg0, arg1));
     };
-    imports.wbg.__wbindgen_closure_wrapper3962 = function(arg0, arg1, arg2) {
+    imports.wbg.__wbindgen_closure_wrapper3960 = function(arg0, arg1, arg2) {
         const ret = makeMutClosure(arg0, arg1, 236, __wbg_adapter_16);
         return addHeapObject(ret);
     };
-    imports.wbg.__wbindgen_closure_wrapper4012 = function(arg0, arg1, arg2) {
+    imports.wbg.__wbindgen_closure_wrapper4010 = function(arg0, arg1, arg2) {
         const ret = makeMutClosure(arg0, arg1, 254, __wbg_adapter_19);
         return addHeapObject(ret);
     };
@@ -626,7 +626,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('chess-board-c7ef9f016746ebdf_bg.wasm', import.meta.url);
+        input = new URL('chess-board-38f19dc8113452b9_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 

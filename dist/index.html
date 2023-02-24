@@ -11,19 +11,24 @@
       aspect-ratio: 1 /1;
     }
     td {
-      color: white;
+      color: black;
       border: solid;
       border-color: gray;
       border-width: 1px;
       padding: 0;
       margin: 0;
+      background-color: white;
+    }
+    tr:nth-child(odd) td:nth-child(even),
+    tr:nth-child(even) td:nth-child(odd) {
+      background: green;
     }
   </style>
-<link rel="preload" href="/chess-board-c7ef9f016746ebdf_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-c7ef9f016746ebdf.js"></head>
+<link rel="preload" href="/chess-board-38f19dc8113452b9_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-38f19dc8113452b9.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-c7ef9f016746ebdf.js';init('/chess-board-c7ef9f016746ebdf_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-38f19dc8113452b9.js';init('/chess-board-38f19dc8113452b9_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;
