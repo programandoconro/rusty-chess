@@ -6,8 +6,9 @@
       background-color: black;
       color: white;
     }
-    div {
+    .container {
       display: flex;
+      position: relative;
     }
     table {
       aspect-ratio: 1 /1;
@@ -29,15 +30,21 @@
       font-size: calc(0.25rem + 1.25vmin);
     }
     .pawn {
-      width: 20px;
-      height: 20px;
+      width: 50px;
+      height: 50px;
+      background-color: black;
+      cursor: grab;
+      position: absolute;
+      left: 50px;
+      top: 50px;
+      border-radius: 50%;
     }
   </style>
-<link rel="preload" href="/chess-board-a07925d22ed37c28_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-a07925d22ed37c28.js"></head>
+<link rel="preload" href="/chess-board-146d86337be425ec_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-146d86337be425ec.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-a07925d22ed37c28.js';init('/chess-board-a07925d22ed37c28_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-146d86337be425ec.js';init('/chess-board-146d86337be425ec_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;
