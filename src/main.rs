@@ -1,14 +1,11 @@
 use yew::prelude::*;
 mod board;
+mod piece;
+use piece::Pawn;
 
-struct Coordinates {
-    x: i32,
-    y: i32,
-}
 #[function_component]
 fn App() -> Html {
     let is_flipped = use_state(|| false);
-    let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: 0, y: 0 });
 
     let onclick: Callback<MouseEvent> = {
         let is_flipped = is_flipped.clone();
@@ -31,18 +28,6 @@ fn App() -> Html {
         }
     };
 
-    let ondragend = {
-        let coordinates = coordinates.clone();
-        Callback::from(move |event: DragEvent| -> () {
-            coordinates.set(Coordinates {
-                x: event.client_x(),
-                y: event.client_y(),
-            });
-            web_sys::console::log_1(&coordinates.x.to_string().into());
-            web_sys::console::log_1(&coordinates.y.to_string().into());
-        })
-    };
-
     html! {
         <div class={".container"}>
         <table>
@@ -50,9 +35,7 @@ fn App() -> Html {
                 for board::create_board(*is_flipped).iter().map(render_squares).rev()
             }
         </table>
-        <div ondrag={ondragend.clone()} ondragend= {ondragend} draggable={"true"} class="pawn"
-        style={format!("left: {}px; top: {}px;",
-         coordinates.x, coordinates.y)}></div>
+        <Pawn />
 
         <aside>
         <button onclick={onclick}>{"Flip"}</button>
