@@ -2,9 +2,11 @@
     <meta charset="utf-8">
     <title>Yew App</title>
   <style>
+    /* Disable dragging visual effect on all elements */
     html {
       background-color: black;
       color: white;
+      user-select: none;
     }
     .container {
       display: flex;
@@ -40,11 +42,11 @@
       border-radius: 50%;
     }
   </style>
-<link rel="preload" href="/chess-board-146d86337be425ec_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-146d86337be425ec.js"></head>
+<link rel="preload" href="/chess-board-9f3e16aaaa647496_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-9f3e16aaaa647496.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-146d86337be425ec.js';init('/chess-board-146d86337be425ec_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-9f3e16aaaa647496.js';init('/chess-board-9f3e16aaaa647496_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;
