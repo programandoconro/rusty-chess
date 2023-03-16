@@ -14,7 +14,7 @@ pub fn Pawn() -> Html {
                 x: event.client_x(),
                 y: event.client_y(),
             });
-            web_sys::console::log_1(&coordinates.x.to_string().into());
+        web_sys::console::log_1(&coordinates.x.to_string().into());
             web_sys::console::log_1(&coordinates.y.to_string().into());
         })
     };
@@ -22,7 +22,25 @@ pub fn Pawn() -> Html {
     html! {
         <div ondrag={ondragend.clone()} ondragend= {ondragend} draggable={"true"} class="pawn"
         style={format!("left: {}px; top: {}px;",
-         coordinates.x, coordinates.y)}></div>
+         coordinates.x, coordinates.y)}>
+
+        <div class="head"></div>
+
+        <div class="neck">
+            <div class="neck-block"></div>
+            <div class="space-down"></div>
+        </div>
+
+        <div class="torso"> </div>
+        <div class="space-down"></div>
+        <div class="space-down"></div>
+        
+        <div class="legs"> </div>
+        <div class="space-down"></div>
+        
+        <div class="base"> </div>
+
+        </div>
 
     }
 }
