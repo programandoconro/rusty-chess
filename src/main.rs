@@ -9,7 +9,6 @@ fn App() -> Html {
 
     let onclick: Callback<MouseEvent> = {
         let is_flipped = is_flipped.clone();
-        web_sys::console::log_1(&is_flipped.to_string().into());
         Callback::from(move |_| match *is_flipped {
             true => is_flipped.set(false),
             false => is_flipped.set(true),
