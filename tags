@@ -3552,481 +3552,557 @@ RerunIfChanged	target/wasm32-unknown-unknown/debug/.fingerprint/indexmap-0b4d948
 RerunIfChanged	target/wasm32-unknown-unknown/debug/.fingerprint/serde-9c2a623f025343ce/run-build-script-build-script-build.json	/^{"rustc":4844661969156876459,"features":"","target":0,"profile":0,"path":0,"deps":[[334835541672/;"	o	object:local.0
 RerunIfChanged	target/wasm32-unknown-unknown/debug/.fingerprint/serde_json-52dbbc8fa13a5eab/run-build-script-build-script-build.json	/^{"rustc":4844661969156876459,"features":"","target":0,"profile":0,"path":0,"deps":[[928051769952/;"	o	object:local.0
 RerunIfChanged	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-2bca2a56defc359f/run-build-script-build-script-build.json	/^{"rustc":4844661969156876459,"features":"","target":0,"profile":0,"path":0,"deps":[[109421961026/;"	o	object:local.0
-WASM_VECTOR_LEN	dist/chess-board-f823d207ec6edfd8.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
+WASM_VECTOR_LEN	dist/chess-board-c11ec9c50be8acb.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
+WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 WASM_VECTOR_LEN	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let WASM_VECTOR_LEN = 0;$/;"	v
 Yew App	dist/index.html	/^    <title>Yew App<\/title>$/;"	j
 Yew App	index.html	/^    <title>Yew App<\/title>$/;"	j
-__wbg_adapter_16	dist/chess-board-f823d207ec6edfd8.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
+__wbg_adapter_16	dist/chess-board-c11ec9c50be8acb.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_16	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_16	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_16	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
+__wbg_adapter_16	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_16	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_16	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function __wbg_adapter_16(arg0, arg1, arg2) {$/;"	f
-__wbg_adapter_19	dist/chess-board-f823d207ec6edfd8.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
+__wbg_adapter_19	dist/chess-board-c11ec9c50be8acb.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_19	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_19	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_19	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
+__wbg_adapter_19	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_19	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
 __wbg_adapter_19	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function __wbg_adapter_19(arg0, arg1, arg2) {$/;"	f
-__wbg_addEventListener_cf5b03cd29763277	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
+__wbg_addEventListener_cf5b03cd29763277	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
 __wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
 __wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
 __wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
+__wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
 __wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
 __wbg_addEventListener_cf5b03cd29763277	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	variable:imports.wbg
-__wbg_appendChild_b8199dc1655c852d	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
+__wbg_appendChild_b8199dc1655c852d	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
+__wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_appendChild_b8199dc1655c852d	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	variable:imports.wbg
-__wbg_body_be46234bb33edd63	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_body_be46234bb33edd63	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_body_be46234bb33edd63	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_body_be46234bb33edd63 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_bubbles_80a0700df9c59aee	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_bubbles_80a0700df9c59aee	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_bubbles_80a0700df9c59aee	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_bubbles_80a0700df9c59aee = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_cachekey_b61393159c57fd7b	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_cachekey_b61393159c57fd7b	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_cachekey_b61393159c57fd7b	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_cachekey_b61393159c57fd7b = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_call_95d1ea488d03e4e8	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
+__wbg_call_95d1ea488d03e4e8	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
 __wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
 __wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
 __wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
+__wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
 __wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
 __wbg_call_95d1ea488d03e4e8	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	variable:imports.wbg
-__wbg_cancelBubble_c9a8182589205d54	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_cancelBubble_c9a8182589205d54	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_cancelBubble_c9a8182589205d54	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_cancelBubble_c9a8182589205d54 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_children_93bcc921a4904ad4	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_children_93bcc921a4904ad4	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_children_93bcc921a4904ad4	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_children_93bcc921a4904ad4 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_clientX_35f23f953e04ec0e	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_clientX_35f23f953e04ec0e	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientX_35f23f953e04ec0e	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_clientX_35f23f953e04ec0e = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_clientY_8104e462abc0b3ec	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_clientY_8104e462abc0b3ec	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_clientY_8104e462abc0b3ec	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_clientY_8104e462abc0b3ec = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_composedPath_d4428cc409ddd3e6	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_composedPath_d4428cc409ddd3e6	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_composedPath_d4428cc409ddd3e6	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_composedPath_d4428cc409ddd3e6 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_createElementNS_0047de728927ea00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
+__wbg_createElementNS_0047de728927ea00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
+__wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_createElementNS_0047de728927ea00	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	variable:imports.wbg
-__wbg_createElement_e2a0e21263eb5416	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
+__wbg_createElement_e2a0e21263eb5416	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
 __wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
 __wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
 __wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
+__wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
 __wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
 __wbg_createElement_e2a0e21263eb5416	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	variable:imports.wbg
-__wbg_createTextNode_866e33a51b47f04c	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_createTextNode_866e33a51b47f04c	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_createTextNode_866e33a51b47f04c	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createTextNode_866e33a51b47f04c = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbg_document_950215a728589a2d	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_document_950215a728589a2d	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_document_950215a728589a2d	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_document_950215a728589a2d = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_error_71d6845bf00a930f	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_error_71d6845bf00a930f	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_71d6845bf00a930f	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_error_71d6845bf00a930f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_error_f851667af71bcfc6	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_error_f851667af71bcfc6	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_error_f851667af71bcfc6	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_error_f851667af71bcfc6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_from_67ca20fa722467e6	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_from_67ca20fa722467e6	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_from_67ca20fa722467e6	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_from_67ca20fa722467e6 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_get_27fe3dac1c4d0224	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_get_27fe3dac1c4d0224	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_get_27fe3dac1c4d0224	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_get_27fe3dac1c4d0224 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_globalThis_87cbb8506fecf3a9	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
+__wbg_globalThis_87cbb8506fecf3a9	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
 __wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
 __wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
 __wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
+__wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
 __wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
 __wbg_globalThis_87cbb8506fecf3a9	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	variable:imports.wbg
-__wbg_global_c85a9259e621f3db	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_global_c85a9259e621f3db	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_global_c85a9259e621f3db	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	variable:imports.wbg
-__wbg_host_33f0224f975dc46a	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_host_33f0224f975dc46a	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_host_33f0224f975dc46a	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_host_33f0224f975dc46a = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_insertBefore_77a7d032a91abf86	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
+__wbg_insertBefore_77a7d032a91abf86	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
+__wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_insertBefore_77a7d032a91abf86	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	variable:imports.wbg
-__wbg_instanceof_Element_cb847a3fc7b1b1a4	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_Element_cb847a3fc7b1b1a4	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Element_cb847a3fc7b1b1a4	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_Element_cb847a3fc7b1b1a4 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_instanceof_ShadowRoot_7088dfa874f5499c	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_ShadowRoot_7088dfa874f5499c	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_ShadowRoot_7088dfa874f5499c	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_ShadowRoot_7088dfa874f5499c = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_instanceof_Window_e266f02eee43b570	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_Window_e266f02eee43b570	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_instanceof_Window_e266f02eee43b570	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_instanceof_Window_e266f02eee43b570 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_is_8f1618fe9a4fd388	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_is_8f1618fe9a4fd388	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_is_8f1618fe9a4fd388	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_is_8f1618fe9a4fd388 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_lastChild_e0fcecf63df5f824	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_lastChild_e0fcecf63df5f824	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_lastChild_e0fcecf63df5f824	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_lastChild_e0fcecf63df5f824 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_length_e498fbc24f9c1d4f	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_length_e498fbc24f9c1d4f	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_length_e498fbc24f9c1d4f	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_length_e498fbc24f9c1d4f = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_listenerid_12315eee21527820	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_listenerid_12315eee21527820	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_listenerid_12315eee21527820	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_listenerid_12315eee21527820 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_log_7bb108d119bafbc1	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_log_7bb108d119bafbc1	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_log_7bb108d119bafbc1	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_log_7bb108d119bafbc1 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_namespaceURI_436d78f0f18e05c1	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_namespaceURI_436d78f0f18e05c1	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_namespaceURI_436d78f0f18e05c1	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_namespaceURI_436d78f0f18e05c1 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_new_abda76e883ba8a5f	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
+__wbg_new_abda76e883ba8a5f	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
 __wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
 __wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
 __wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
+__wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
 __wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
 __wbg_new_abda76e883ba8a5f	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_new_abda76e883ba8a5f = function() {$/;"	f	variable:imports.wbg
-__wbg_new_f9876326328f45ed	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
+__wbg_new_f9876326328f45ed	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
 __wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
 __wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
 __wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
+__wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
 __wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
 __wbg_new_f9876326328f45ed	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_new_f9876326328f45ed = function() {$/;"	f	variable:imports.wbg
-__wbg_newnoargs_2b8b6bd7753c76ba	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_newnoargs_2b8b6bd7753c76ba	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_newnoargs_2b8b6bd7753c76ba	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_newnoargs_2b8b6bd7753c76ba = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_nextSibling_653f43ab9380175f	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_nextSibling_653f43ab9380175f	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_nextSibling_653f43ab9380175f	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_nextSibling_653f43ab9380175f = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_outerHTML_e29ac244117c6543	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_outerHTML_e29ac244117c6543	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_outerHTML_e29ac244117c6543	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_outerHTML_e29ac244117c6543 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_parentElement_0e8c9afce5cb9d6e	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_parentElement_0e8c9afce5cb9d6e	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentElement_0e8c9afce5cb9d6e	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_parentElement_0e8c9afce5cb9d6e = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_parentNode_e81e6d5dc2fc35b0	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_parentNode_e81e6d5dc2fc35b0	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_parentNode_e81e6d5dc2fc35b0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_removeAttribute_ad7a5bf2eed30373	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
+__wbg_removeAttribute_ad7a5bf2eed30373	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
+__wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
 __wbg_removeAttribute_ad7a5bf2eed30373	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	variable:imports.wbg
-__wbg_removeChild_794db72cbb6f21d3	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
+__wbg_removeChild_794db72cbb6f21d3	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
+__wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
 __wbg_removeChild_794db72cbb6f21d3	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	variable:imports.wbg
-__wbg_removeEventListener_b25f5db74f767386	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
+__wbg_removeEventListener_b25f5db74f767386	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
 __wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
 __wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
 __wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
+__wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
 __wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
 __wbg_removeEventListener_b25f5db74f767386	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	variable:imports.wbg
-__wbg_resolve_fd40f858d9db1a04	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_resolve_fd40f858d9db1a04	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
+__wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
 __wbg_resolve_fd40f858d9db1a04	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_resolve_fd40f858d9db1a04 = function(arg0) {$/;"	f	variable:imports.wbg
-__wbg_self_e7c1f827057f6584	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_self_e7c1f827057f6584	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_self_e7c1f827057f6584	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
-__wbg_setAttribute_79c9562d32d05e66	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
+__wbg_setAttribute_79c9562d32d05e66	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
+__wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
 __wbg_setAttribute_79c9562d32d05e66	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	variable:imports.wbg
-__wbg_set_6aa458a4ebdb65cb	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
+__wbg_set_6aa458a4ebdb65cb	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
 __wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
 __wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
 __wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
+__wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
 __wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
 __wbg_set_6aa458a4ebdb65cb	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	variable:imports.wbg
-__wbg_setcachekey_80183b7cfc421143	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setcachekey_80183b7cfc421143	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setcachekey_80183b7cfc421143	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setcachekey_80183b7cfc421143 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_setchecked_cbd6f423c4deba69	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setchecked_cbd6f423c4deba69	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setchecked_cbd6f423c4deba69	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setchecked_cbd6f423c4deba69 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_setinnerHTML_76167cda24d9b96b	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setinnerHTML_76167cda24d9b96b	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setinnerHTML_76167cda24d9b96b	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setinnerHTML_76167cda24d9b96b = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbg_setlistenerid_3183aae8fa5840fb	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setlistenerid_3183aae8fa5840fb	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setlistenerid_3183aae8fa5840fb	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setlistenerid_3183aae8fa5840fb = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_setnodeValue_10d5890cd7e3f998	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setnodeValue_10d5890cd7e3f998	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setnodeValue_10d5890cd7e3f998	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setnodeValue_10d5890cd7e3f998 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbg_setsubtreeid_d32e6327eef1f7fc	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setsubtreeid_d32e6327eef1f7fc	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_setsubtreeid_d32e6327eef1f7fc	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setsubtreeid_d32e6327eef1f7fc = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_setvalue_a706abe70dab1b65	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setvalue_a706abe70dab1b65	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_a706abe70dab1b65	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setvalue_a706abe70dab1b65 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbg_setvalue_f92ff20dd33356a8	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setvalue_f92ff20dd33356a8	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbg_setvalue_f92ff20dd33356a8	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setvalue_f92ff20dd33356a8 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbg_stack_658279fe44541cf6	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_stack_658279fe44541cf6	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_stack_658279fe44541cf6	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_stack_658279fe44541cf6 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_subtreeid_e348577f7ef777e3	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_subtreeid_e348577f7ef777e3	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_subtreeid_e348577f7ef777e3	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_subtreeid_e348577f7ef777e3 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_textContent_dff59ad5e030bb86	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_textContent_dff59ad5e030bb86	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_textContent_dff59ad5e030bb86	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_textContent_dff59ad5e030bb86 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_then_ec5db6d509eb475f	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_then_ec5db6d509eb475f	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_then_ec5db6d509eb475f	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_then_ec5db6d509eb475f = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_value_00fb0fdc46959169	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_value_00fb0fdc46959169	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_00fb0fdc46959169	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_value_1f2c9e357d18d3ea	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_value_1f2c9e357d18d3ea	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbg_value_1f2c9e357d18d3ea	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_value_1f2c9e357d18d3ea = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbg_window_a09ec664e14b1b81	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_window_a09ec664e14b1b81	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
+__wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
 __wbg_window_a09ec664e14b1b81	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	variable:imports.wbg
-__wbindgen_cb_drop	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_cb_drop	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_cb_drop	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_cb_drop = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4163	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_closure_wrapper4163 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbindgen_closure_wrapper4193	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbindgen_closure_wrapper4193	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4193	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4193	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4193	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbindgen_closure_wrapper4193	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4193	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_closure_wrapper4193 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4298	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_closure_wrapper4298 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbindgen_closure_wrapper4328	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbindgen_closure_wrapper4328	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4328	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4328	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4328	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
+__wbindgen_closure_wrapper4328	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
 __wbindgen_closure_wrapper4328	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_closure_wrapper4328 = function(arg0, arg1, arg2) {$/;"	f	variable:imports.wbg
-__wbindgen_debug_string	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_debug_string	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_debug_string	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_debug_string = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbindgen_is_undefined	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_is_undefined	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_is_undefined	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_is_undefined = function(arg0) {$/;"	f	variable:imports.wbg
-__wbindgen_object_clone_ref	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_object_clone_ref	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_clone_ref	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_object_clone_ref = function(arg0) {$/;"	f	variable:imports.wbg
-__wbindgen_object_drop_ref	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_object_drop_ref	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
+__wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
 __wbindgen_object_drop_ref	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_object_drop_ref = function(arg0) {$/;"	f	variable:imports.wbg
-__wbindgen_string_new	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_string_new	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_string_new	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_string_new	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_string_new	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_string_new	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_string_new	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_string_new	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_string_new = function(arg0, arg1) {$/;"	f	variable:imports.wbg
-__wbindgen_throw	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_throw	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_throw	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_throw	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_throw	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
+__wbindgen_throw	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_throw	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 __wbindgen_throw	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbindgen_throw = function(arg0, arg1) {$/;"	f	variable:imports.wbg
 _f	target/debug/build/thiserror-605e32571e31341d/out/probe.rs	/^    fn _f<'a, P: Provider>(p: &'a P, demand: &mut Demand<'a>) {$/;"	f
 _f	target/wasm32-unknown-unknown/debug/build/thiserror-288bf87731a60adc/out/probe.rs	/^    fn _f<'a, P: Provider>(p: &'a P, demand: &mut Demand<'a>) {$/;"	f
-a	dist/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+a	dist/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 a	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 a	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 a	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+a	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 a	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 a	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
-addBorrowedObject	dist/chess-board-f823d207ec6edfd8.js	/^function addBorrowedObject(obj) {$/;"	f
+addBorrowedObject	dist/chess-board-c11ec9c50be8acb.js	/^function addBorrowedObject(obj) {$/;"	f
 addBorrowedObject	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function addBorrowedObject(obj) {$/;"	f
 addBorrowedObject	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function addBorrowedObject(obj) {$/;"	f
 addBorrowedObject	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function addBorrowedObject(obj) {$/;"	f
+addBorrowedObject	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function addBorrowedObject(obj) {$/;"	f
 addBorrowedObject	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function addBorrowedObject(obj) {$/;"	f
 addBorrowedObject	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function addBorrowedObject(obj) {$/;"	f
-addHeapObject	dist/chess-board-f823d207ec6edfd8.js	/^function addHeapObject(obj) {$/;"	f
+addHeapObject	dist/chess-board-c11ec9c50be8acb.js	/^function addHeapObject(obj) {$/;"	f
 addHeapObject	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function addHeapObject(obj) {$/;"	f
 addHeapObject	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function addHeapObject(obj) {$/;"	f
 addHeapObject	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function addHeapObject(obj) {$/;"	f
+addHeapObject	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function addHeapObject(obj) {$/;"	f
 addHeapObject	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function addHeapObject(obj) {$/;"	f
 addHeapObject	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function addHeapObject(obj) {$/;"	f
-anonymousFunction6344bab41500	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	function:imports.wbg.__wbg_createElement_e2a0e21263eb5416
-anonymousFunction6344bab41700	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_createElementNS_0047de728927ea00
-anonymousFunction6344bab42800	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373
-anonymousFunction6344bab42a00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_setAttribute_79c9562d32d05e66
-anonymousFunction6344bab43000	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	function:imports.wbg.__wbg_addEventListener_cf5b03cd29763277
-anonymousFunction6344bab43200	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	function:imports.wbg.__wbg_removeEventListener_b25f5db74f767386
-anonymousFunction6344bab43a00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_appendChild_b8199dc1655c852d
-anonymousFunction6344bab43c00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_insertBefore_77a7d032a91abf86
-anonymousFunction6344bab43e00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_removeChild_794db72cbb6f21d3
-anonymousFunction6344bab44400	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	function:imports.wbg.__wbg_call_95d1ea488d03e4e8
-anonymousFunction6344bab44a00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	function:imports.wbg.__wbg_globalThis_87cbb8506fecf3a9
-anonymousFunction6344bab44c00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_self_e7c1f827057f6584
-anonymousFunction6344bab44e00	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_window_a09ec664e14b1b81
-anonymousFunction6344bab45000	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_global_c85a9259e621f3db
-anonymousFunction6344bab45200	dist/chess-board-f823d207ec6edfd8.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	function:imports.wbg.__wbg_set_6aa458a4ebdb65cb
+anonymousFunction485dcfde1500	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	function:imports.wbg.__wbg_createElement_e2a0e21263eb5416
+anonymousFunction485dcfde1700	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_createElementNS_0047de728927ea00
+anonymousFunction485dcfde2800	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373
+anonymousFunction485dcfde2a00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_setAttribute_79c9562d32d05e66
+anonymousFunction485dcfde3000	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	function:imports.wbg.__wbg_addEventListener_cf5b03cd29763277
+anonymousFunction485dcfde3200	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	function:imports.wbg.__wbg_removeEventListener_b25f5db74f767386
+anonymousFunction485dcfde3a00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_appendChild_b8199dc1655c852d
+anonymousFunction485dcfde3c00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_insertBefore_77a7d032a91abf86
+anonymousFunction485dcfde3e00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_removeChild_794db72cbb6f21d3
+anonymousFunction485dcfde4400	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	function:imports.wbg.__wbg_call_95d1ea488d03e4e8
+anonymousFunction485dcfde4a00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	function:imports.wbg.__wbg_globalThis_87cbb8506fecf3a9
+anonymousFunction485dcfde4c00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_self_e7c1f827057f6584
+anonymousFunction485dcfde4e00	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_window_a09ec664e14b1b81
+anonymousFunction485dcfde5000	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_global_c85a9259e621f3db
+anonymousFunction485dcfde5200	dist/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	function:imports.wbg.__wbg_set_6aa458a4ebdb65cb
 anonymousFunction88de22a01500	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	function:imports.wbg.__wbg_createElement_e2a0e21263eb5416
 anonymousFunction88de22a01700	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_createElementNS_0047de728927ea00
 anonymousFunction88de22a02800	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373
@@ -4042,6 +4118,21 @@ anonymousFunction88de22a04c00	target/wasm-bindgen/debug/chess-board-601756782844
 anonymousFunction88de22a04e00	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_window_a09ec664e14b1b81
 anonymousFunction88de22a05000	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_global_c85a9259e621f3db
 anonymousFunction88de22a05200	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	function:imports.wbg.__wbg_set_6aa458a4ebdb65cb
+anonymousFunction907aced21500	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	function:imports.wbg.__wbg_createElement_e2a0e21263eb5416
+anonymousFunction907aced21700	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_createElementNS_0047de728927ea00
+anonymousFunction907aced22800	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373
+anonymousFunction907aced22a00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_setAttribute_79c9562d32d05e66 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_setAttribute_79c9562d32d05e66
+anonymousFunction907aced23000	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_addEventListener_cf5b03cd29763277 = function() { return handleError(functi/;"	f	function:imports.wbg.__wbg_addEventListener_cf5b03cd29763277
+anonymousFunction907aced23200	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(fun/;"	f	function:imports.wbg.__wbg_removeEventListener_b25f5db74f767386
+anonymousFunction907aced23a00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_appendChild_b8199dc1655c852d = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_appendChild_b8199dc1655c852d
+anonymousFunction907aced23c00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_insertBefore_77a7d032a91abf86 = function() { return handleError(function (/;"	f	function:imports.wbg.__wbg_insertBefore_77a7d032a91abf86
+anonymousFunction907aced23e00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_removeChild_794db72cbb6f21d3 = function() { return handleError(function (a/;"	f	function:imports.wbg.__wbg_removeChild_794db72cbb6f21d3
+anonymousFunction907aced24400	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_call_95d1ea488d03e4e8 = function() { return handleError(function (arg0, ar/;"	f	function:imports.wbg.__wbg_call_95d1ea488d03e4e8
+anonymousFunction907aced24a00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_globalThis_87cbb8506fecf3a9 = function() { return handleError(function () /;"	f	function:imports.wbg.__wbg_globalThis_87cbb8506fecf3a9
+anonymousFunction907aced24c00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_self_e7c1f827057f6584 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_self_e7c1f827057f6584
+anonymousFunction907aced24e00	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_window_a09ec664e14b1b81
+anonymousFunction907aced25000	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_global_c85a9259e621f3db
+anonymousFunction907aced25200	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	function:imports.wbg.__wbg_set_6aa458a4ebdb65cb
 anonymousFunctionae7205f81500	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_createElement_e2a0e21263eb5416 = function() { return handleError(function /;"	f	function:imports.wbg.__wbg_createElement_e2a0e21263eb5416
 anonymousFunctionae7205f81700	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_createElementNS_0047de728927ea00 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_createElementNS_0047de728927ea00
 anonymousFunctionae7205f82800	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373 = function() { return handleError(functio/;"	f	function:imports.wbg.__wbg_removeAttribute_ad7a5bf2eed30373
@@ -4102,53 +4193,61 @@ anonymousFunctionf9e7a3aa4c00	target/wasm-bindgen/debug/chess-board-c87622cf9849
 anonymousFunctionf9e7a3aa4e00	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_window_a09ec664e14b1b81 = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_window_a09ec664e14b1b81
 anonymousFunctionf9e7a3aa5000	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_global_c85a9259e621f3db = function() { return handleError(function () {$/;"	f	function:imports.wbg.__wbg_global_c85a9259e621f3db
 anonymousFunctionf9e7a3aa5200	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    imports.wbg.__wbg_set_6aa458a4ebdb65cb = function() { return handleError(function (arg0, arg/;"	f	function:imports.wbg.__wbg_set_6aa458a4ebdb65cb
-anonymousObject6344bab40105	dist/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
+anonymousObject485dcfde0105	dist/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
 anonymousObject88de22a00105	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
+anonymousObject907aced20105	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
 anonymousObjectae7205f80105	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
 anonymousObjectaf0198280105	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
 anonymousObjectd584dec70105	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
 anonymousObjectf9e7a3aa0105	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	v
-b	dist/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+b	dist/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 b	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 b	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 b	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+b	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 b	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 b	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 board	src/main.rs	/^mod board;$/;"	n
-cachedInt32Memory0	dist/chess-board-f823d207ec6edfd8.js	/^let cachedInt32Memory0 = null;$/;"	v
+cachedInt32Memory0	dist/chess-board-c11ec9c50be8acb.js	/^let cachedInt32Memory0 = null;$/;"	v
 cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let cachedInt32Memory0 = null;$/;"	v
 cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let cachedInt32Memory0 = null;$/;"	v
 cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let cachedInt32Memory0 = null;$/;"	v
+cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let cachedInt32Memory0 = null;$/;"	v
 cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let cachedInt32Memory0 = null;$/;"	v
 cachedInt32Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let cachedInt32Memory0 = null;$/;"	v
-cachedTextDecoder	dist/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
+cachedTextDecoder	dist/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
 cachedTextDecoder	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
 cachedTextDecoder	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
 cachedTextDecoder	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
+cachedTextDecoder	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
 cachedTextDecoder	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
 cachedTextDecoder	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	C
-cachedTextEncoder	dist/chess-board-f823d207ec6edfd8.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
+cachedTextEncoder	dist/chess-board-c11ec9c50be8acb.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
 cachedTextEncoder	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
 cachedTextEncoder	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
 cachedTextEncoder	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
+cachedTextEncoder	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
 cachedTextEncoder	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
 cachedTextEncoder	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const cachedTextEncoder = new TextEncoder('utf-8');$/;"	C
-cachedUint32Memory0	dist/chess-board-f823d207ec6edfd8.js	/^let cachedUint32Memory0 = null;$/;"	v
+cachedUint32Memory0	dist/chess-board-c11ec9c50be8acb.js	/^let cachedUint32Memory0 = null;$/;"	v
 cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let cachedUint32Memory0 = null;$/;"	v
 cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let cachedUint32Memory0 = null;$/;"	v
 cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let cachedUint32Memory0 = null;$/;"	v
+cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let cachedUint32Memory0 = null;$/;"	v
 cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let cachedUint32Memory0 = null;$/;"	v
 cachedUint32Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let cachedUint32Memory0 = null;$/;"	v
-cachedUint8Memory0	dist/chess-board-f823d207ec6edfd8.js	/^let cachedUint8Memory0 = null;$/;"	v
+cachedUint8Memory0	dist/chess-board-c11ec9c50be8acb.js	/^let cachedUint8Memory0 = null;$/;"	v
 cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let cachedUint8Memory0 = null;$/;"	v
 cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let cachedUint8Memory0 = null;$/;"	v
 cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let cachedUint8Memory0 = null;$/;"	v
+cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let cachedUint8Memory0 = null;$/;"	v
 cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let cachedUint8Memory0 = null;$/;"	v
 cachedUint8Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let cachedUint8Memory0 = null;$/;"	v
-cnt	dist/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+cnt	dist/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 cnt	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 cnt	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 cnt	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
+cnt	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 cnt	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 cnt	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	p	variable:makeMutClosure.state
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	n	object:outputs.10376369925670944939
@@ -4641,10 +4740,11 @@ config	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-143
 config	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	n
 config	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	n
 create_board	src/board.rs	/^pub fn create_board(flipped: bool) -> Board {$/;"	f
-debugString	dist/chess-board-f823d207ec6edfd8.js	/^function debugString(val) {$/;"	f
+debugString	dist/chess-board-c11ec9c50be8acb.js	/^function debugString(val) {$/;"	f
 debugString	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function debugString(val) {$/;"	f
 debugString	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function debugString(val) {$/;"	f
 debugString	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function debugString(val) {$/;"	f
+debugString	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function debugString(val) {$/;"	f
 debugString	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function debugString(val) {$/;"	f
 debugString	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function debugString(val) {$/;"	f
 dep_info	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	s	object:local.0.CheckDepInfo
@@ -5097,28 +5197,32 @@ deps	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-85de60fc74341
 deps	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-14306637afc03e09/lib-wasm-bindgen-futures.json	/^{"rustc":4844661969156876459,"features":"[]","target":9101835483097096041,"profile":126373187397/;"	a
 deps	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	a
 deps	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	a
-dropObject	dist/chess-board-f823d207ec6edfd8.js	/^function dropObject(idx) {$/;"	f
+dropObject	dist/chess-board-c11ec9c50be8acb.js	/^function dropObject(idx) {$/;"	f
 dropObject	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function dropObject(idx) {$/;"	f
 dropObject	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function dropObject(idx) {$/;"	f
 dropObject	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function dropObject(idx) {$/;"	f
+dropObject	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function dropObject(idx) {$/;"	f
 dropObject	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function dropObject(idx) {$/;"	f
 dropObject	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function dropObject(idx) {$/;"	f
-dtor	dist/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
+dtor	dist/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
 dtor	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
 dtor	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
 dtor	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
+dtor	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
 dtor	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
 dtor	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	M	variable:makeMutClosure.state
-encodeString	dist/chess-board-f823d207ec6edfd8.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
+encodeString	dist/chess-board-c11ec9c50be8acb.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
 encodeString	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
 encodeString	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
 encodeString	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
+encodeString	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
 encodeString	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
 encodeString	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const encodeString = (typeof cachedTextEncoder.encodeInto === 'function'$/;"	C
-fatal	dist/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject6344bab40105
+fatal	dist/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject485dcfde0105
 fatal	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectae7205f80105
 fatal	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject88de22a00105
 fatal	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectd584dec70105
+fatal	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject907aced20105
 fatal	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectf9e7a3aa0105
 fatal	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectaf0198280105
 features	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	s
@@ -5363,100 +5467,116 @@ features	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-85de60fc7
 features	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-14306637afc03e09/lib-wasm-bindgen-futures.json	/^{"rustc":4844661969156876459,"features":"[]","target":9101835483097096041,"profile":126373187397/;"	s
 features	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	s
 features	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	s
-finalizeInit	dist/chess-board-f823d207ec6edfd8.js	/^function finalizeInit(instance, module) {$/;"	f
+finalizeInit	dist/chess-board-c11ec9c50be8acb.js	/^function finalizeInit(instance, module) {$/;"	f
 finalizeInit	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function finalizeInit(instance, module) {$/;"	f
 finalizeInit	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function finalizeInit(instance, module) {$/;"	f
 finalizeInit	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function finalizeInit(instance, module) {$/;"	f
+finalizeInit	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function finalizeInit(instance, module) {$/;"	f
 finalizeInit	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function finalizeInit(instance, module) {$/;"	f
 finalizeInit	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function finalizeInit(instance, module) {$/;"	f
-getArrayJsValueFromWasm0	dist/chess-board-f823d207ec6edfd8.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
+getArrayJsValueFromWasm0	dist/chess-board-c11ec9c50be8acb.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
 getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
 getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
 getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
+getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
 getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
 getArrayJsValueFromWasm0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getArrayJsValueFromWasm0(ptr, len) {$/;"	f
-getImports	dist/chess-board-f823d207ec6edfd8.js	/^function getImports() {$/;"	f
+getImports	dist/chess-board-c11ec9c50be8acb.js	/^function getImports() {$/;"	f
 getImports	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getImports() {$/;"	f
 getImports	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getImports() {$/;"	f
 getImports	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getImports() {$/;"	f
+getImports	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getImports() {$/;"	f
 getImports	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getImports() {$/;"	f
 getImports	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getImports() {$/;"	f
-getInt32Memory0	dist/chess-board-f823d207ec6edfd8.js	/^function getInt32Memory0() {$/;"	f
+getInt32Memory0	dist/chess-board-c11ec9c50be8acb.js	/^function getInt32Memory0() {$/;"	f
 getInt32Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getInt32Memory0() {$/;"	f
 getInt32Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getInt32Memory0() {$/;"	f
 getInt32Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getInt32Memory0() {$/;"	f
+getInt32Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getInt32Memory0() {$/;"	f
 getInt32Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getInt32Memory0() {$/;"	f
 getInt32Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getInt32Memory0() {$/;"	f
-getObject	dist/chess-board-f823d207ec6edfd8.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
+getObject	dist/chess-board-c11ec9c50be8acb.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
 getObject	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
 getObject	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
 getObject	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
+getObject	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
 getObject	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
 getObject	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getObject(idx) { return heap[idx]; }$/;"	f
-getStringFromWasm0	dist/chess-board-f823d207ec6edfd8.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
+getStringFromWasm0	dist/chess-board-c11ec9c50be8acb.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
 getStringFromWasm0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
 getStringFromWasm0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
 getStringFromWasm0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
+getStringFromWasm0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
 getStringFromWasm0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
 getStringFromWasm0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getStringFromWasm0(ptr, len) {$/;"	f
-getUint32Memory0	dist/chess-board-f823d207ec6edfd8.js	/^function getUint32Memory0() {$/;"	f
+getUint32Memory0	dist/chess-board-c11ec9c50be8acb.js	/^function getUint32Memory0() {$/;"	f
 getUint32Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getUint32Memory0() {$/;"	f
 getUint32Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getUint32Memory0() {$/;"	f
 getUint32Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getUint32Memory0() {$/;"	f
+getUint32Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getUint32Memory0() {$/;"	f
 getUint32Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getUint32Memory0() {$/;"	f
 getUint32Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getUint32Memory0() {$/;"	f
-getUint8Memory0	dist/chess-board-f823d207ec6edfd8.js	/^function getUint8Memory0() {$/;"	f
+getUint8Memory0	dist/chess-board-c11ec9c50be8acb.js	/^function getUint8Memory0() {$/;"	f
 getUint8Memory0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function getUint8Memory0() {$/;"	f
 getUint8Memory0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function getUint8Memory0() {$/;"	f
 getUint8Memory0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function getUint8Memory0() {$/;"	f
+getUint8Memory0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function getUint8Memory0() {$/;"	f
 getUint8Memory0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function getUint8Memory0() {$/;"	f
 getUint8Memory0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function getUint8Memory0() {$/;"	f
-handleError	dist/chess-board-f823d207ec6edfd8.js	/^function handleError(f, args) {$/;"	f
+handleError	dist/chess-board-c11ec9c50be8acb.js	/^function handleError(f, args) {$/;"	f
 handleError	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function handleError(f, args) {$/;"	f
 handleError	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function handleError(f, args) {$/;"	f
 handleError	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function handleError(f, args) {$/;"	f
+handleError	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function handleError(f, args) {$/;"	f
 handleError	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function handleError(f, args) {$/;"	f
 handleError	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function handleError(f, args) {$/;"	f
-heap_next	dist/chess-board-f823d207ec6edfd8.js	/^let heap_next = heap.length;$/;"	v
+heap_next	dist/chess-board-c11ec9c50be8acb.js	/^let heap_next = heap.length;$/;"	v
 heap_next	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let heap_next = heap.length;$/;"	v
 heap_next	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let heap_next = heap.length;$/;"	v
 heap_next	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let heap_next = heap.length;$/;"	v
+heap_next	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let heap_next = heap.length;$/;"	v
 heap_next	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let heap_next = heap.length;$/;"	v
 heap_next	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let heap_next = heap.length;$/;"	v
-ignoreBOM	dist/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject6344bab40105
+ignoreBOM	dist/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject485dcfde0105
 ignoreBOM	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectae7205f80105
 ignoreBOM	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject88de22a00105
 ignoreBOM	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectd584dec70105
+ignoreBOM	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObject907aced20105
 ignoreBOM	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectf9e7a3aa0105
 ignoreBOM	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^const cachedTextDecoder = new TextDecoder('utf-8', { ignoreBOM: true, fatal: true });$/;"	p	variable:anonymousObjectaf0198280105
-init	dist/chess-board-f823d207ec6edfd8.js	/^async function init(input) {$/;"	f
+init	dist/chess-board-c11ec9c50be8acb.js	/^async function init(input) {$/;"	f
 init	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^async function init(input) {$/;"	f
 init	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^async function init(input) {$/;"	f
 init	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^async function init(input) {$/;"	f
+init	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^async function init(input) {$/;"	f
 init	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^async function init(input) {$/;"	f
 init	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^async function init(input) {$/;"	f
-initMemory	dist/chess-board-f823d207ec6edfd8.js	/^function initMemory(imports, maybe_memory) {$/;"	f
+initMemory	dist/chess-board-c11ec9c50be8acb.js	/^function initMemory(imports, maybe_memory) {$/;"	f
 initMemory	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function initMemory(imports, maybe_memory) {$/;"	f
 initMemory	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function initMemory(imports, maybe_memory) {$/;"	f
 initMemory	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function initMemory(imports, maybe_memory) {$/;"	f
+initMemory	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function initMemory(imports, maybe_memory) {$/;"	f
 initMemory	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function initMemory(imports, maybe_memory) {$/;"	f
 initMemory	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function initMemory(imports, maybe_memory) {$/;"	f
-initSync	dist/chess-board-f823d207ec6edfd8.js	/^function initSync(module) {$/;"	f
+initSync	dist/chess-board-c11ec9c50be8acb.js	/^function initSync(module) {$/;"	f
 initSync	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function initSync(module) {$/;"	f
 initSync	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function initSync(module) {$/;"	f
 initSync	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function initSync(module) {$/;"	f
+initSync	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function initSync(module) {$/;"	f
 initSync	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function initSync(module) {$/;"	f
 initSync	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function initSync(module) {$/;"	f
-isLikeNone	dist/chess-board-f823d207ec6edfd8.js	/^function isLikeNone(x) {$/;"	f
+isLikeNone	dist/chess-board-c11ec9c50be8acb.js	/^function isLikeNone(x) {$/;"	f
 isLikeNone	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function isLikeNone(x) {$/;"	f
 isLikeNone	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function isLikeNone(x) {$/;"	f
 isLikeNone	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function isLikeNone(x) {$/;"	f
+isLikeNone	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function isLikeNone(x) {$/;"	f
 isLikeNone	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function isLikeNone(x) {$/;"	f
 isLikeNone	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function isLikeNone(x) {$/;"	f
-load	dist/chess-board-f823d207ec6edfd8.js	/^async function load(module, imports) {$/;"	f
+load	dist/chess-board-c11ec9c50be8acb.js	/^async function load(module, imports) {$/;"	f
 load	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^async function load(module, imports) {$/;"	f
 load	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^async function load(module, imports) {$/;"	f
 load	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^async function load(module, imports) {$/;"	f
+load	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^async function load(module, imports) {$/;"	f
 load	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^async function load(module, imports) {$/;"	f
 load	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^async function load(module, imports) {$/;"	f
 local	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	a
@@ -5702,10 +5822,11 @@ local	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-1430
 local	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	a
 local	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	a
 main	src/main.rs	/^fn main() {$/;"	f
-makeMutClosure	dist/chess-board-f823d207ec6edfd8.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
+makeMutClosure	dist/chess-board-c11ec9c50be8acb.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 makeMutClosure	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 makeMutClosure	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 makeMutClosure	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
+makeMutClosure	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 makeMutClosure	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 makeMutClosure	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function makeMutClosure(arg0, arg1, dtor, f) {$/;"	f
 metadata	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	n
@@ -5974,10 +6095,11 @@ output	target/wasm32-unknown-unknown/debug/.fingerprint/serde-9c2a623f025343ce/r
 output	target/wasm32-unknown-unknown/debug/.fingerprint/serde_json-52dbbc8fa13a5eab/run-build-script-build-script-build.json	/^{"rustc":4844661969156876459,"features":"","target":0,"profile":0,"path":0,"deps":[[928051769952/;"	s	object:local.0.RerunIfChanged
 output	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-2bca2a56defc359f/run-build-script-build-script-build.json	/^{"rustc":4844661969156876459,"features":"","target":0,"profile":0,"path":0,"deps":[[109421961026/;"	s	object:local.0.RerunIfChanged
 outputs	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	o
-passStringToWasm0	dist/chess-board-f823d207ec6edfd8.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
+passStringToWasm0	dist/chess-board-c11ec9c50be8acb.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 passStringToWasm0	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 passStringToWasm0	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 passStringToWasm0	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
+passStringToWasm0	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 passStringToWasm0	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 passStringToWasm0	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function passStringToWasm0(arg, malloc, realloc) {$/;"	f
 path	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	n
@@ -6488,10 +6610,11 @@ profile	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-85de60fc74
 profile	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-14306637afc03e09/lib-wasm-bindgen-futures.json	/^{"rustc":4844661969156876459,"features":"[]","target":9101835483097096041,"profile":126373187397/;"	n
 profile	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	n
 profile	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	n
-real	dist/chess-board-f823d207ec6edfd8.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
+real	dist/chess-board-c11ec9c50be8acb.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 real	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 real	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 real	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
+real	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 real	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 real	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const real = (...args) => {$/;"	f	function:makeMutClosure
 rustc	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	n
@@ -6979,16 +7102,18 @@ rustflags	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-85de60fc
 rustflags	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-14306637afc03e09/lib-wasm-bindgen-futures.json	/^{"rustc":4844661969156876459,"features":"[]","target":9101835483097096041,"profile":126373187397/;"	a
 rustflags	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	a
 rustflags	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	a
-stack_pointer	dist/chess-board-f823d207ec6edfd8.js	/^let stack_pointer = 128;$/;"	v
+stack_pointer	dist/chess-board-c11ec9c50be8acb.js	/^let stack_pointer = 128;$/;"	v
 stack_pointer	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let stack_pointer = 128;$/;"	v
 stack_pointer	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let stack_pointer = 128;$/;"	v
 stack_pointer	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let stack_pointer = 128;$/;"	v
+stack_pointer	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let stack_pointer = 128;$/;"	v
 stack_pointer	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let stack_pointer = 128;$/;"	v
 stack_pointer	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let stack_pointer = 128;$/;"	v
-state	dist/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
+state	dist/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 state	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 state	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 state	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
+state	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 state	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 state	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^    const state = { a: arg0, b: arg1, cnt: 1, dtor };$/;"	v	function:makeMutClosure
 status	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	s	object:outputs.10376369925670944939
@@ -7012,10 +7137,11 @@ success	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"out
 success	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	b	object:outputs.3041318571841102788
 success	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	b	object:outputs.4614504638168534921
 successes	target/.rustc_info.json	/^{"rustc_fingerprint":17385788318250039559,"outputs":{"11308901369924159398":{"success":true,"sta/;"	o
-takeObject	dist/chess-board-f823d207ec6edfd8.js	/^function takeObject(idx) {$/;"	f
+takeObject	dist/chess-board-c11ec9c50be8acb.js	/^function takeObject(idx) {$/;"	f
 takeObject	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^function takeObject(idx) {$/;"	f
 takeObject	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^function takeObject(idx) {$/;"	f
 takeObject	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^function takeObject(idx) {$/;"	f
+takeObject	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^function takeObject(idx) {$/;"	f
 takeObject	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^function takeObject(idx) {$/;"	f
 takeObject	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^function takeObject(idx) {$/;"	f
 target	target/debug/.fingerprint/anymap2-a1122f8684594e02/lib-anymap2.json	/^{"rustc":4844661969156876459,"features":"[]","target":3939788831475913230,"profile":898764633244/;"	n
@@ -7260,10 +7386,11 @@ target	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-85de60fc743
 target	target/wasm32-unknown-unknown/debug/.fingerprint/wasm-bindgen-futures-14306637afc03e09/lib-wasm-bindgen-futures.json	/^{"rustc":4844661969156876459,"features":"[]","target":9101835483097096041,"profile":126373187397/;"	n
 target	target/wasm32-unknown-unknown/debug/.fingerprint/web-sys-f4a5b64cb020bb29/lib-web-sys.json	/^{"rustc":4844661969156876459,"features":"[\\"AbortSignal\\", \\"AddEventListenerOptions\\", \\"A/;"	n
 target	target/wasm32-unknown-unknown/debug/.fingerprint/yew-c486d89b5a9e9284/lib-yew.json	/^{"rustc":4844661969156876459,"features":"[\\"csr\\", \\"default\\"]","target":181480716748362820/;"	n
-wasm	dist/chess-board-f823d207ec6edfd8.js	/^let wasm;$/;"	v
+wasm	dist/chess-board-c11ec9c50be8acb.js	/^let wasm;$/;"	v
 wasm	target/wasm-bindgen/debug/chess-board-3c049b4729fc98c1.js	/^let wasm;$/;"	v
 wasm	target/wasm-bindgen/debug/chess-board-601756782844b11c.js	/^let wasm;$/;"	v
 wasm	target/wasm-bindgen/debug/chess-board-8ac530bc0b31e4.js	/^let wasm;$/;"	v
+wasm	target/wasm-bindgen/debug/chess-board-c11ec9c50be8acb.js	/^let wasm;$/;"	v
 wasm	target/wasm-bindgen/debug/chess-board-c87622cf9849fc96.js	/^let wasm;$/;"	v
 wasm	target/wasm-bindgen/debug/chess-board-f823d207ec6edfd8.js	/^let wasm;$/;"	v
 x	src/piece.rs	/^    x: i32,$/;"	m	struct:Coordinates
