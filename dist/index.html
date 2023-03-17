@@ -2,49 +2,56 @@
     <meta charset="utf-8">
     <title>Yew App</title>
     
-
   <style>
-    /* Disable dragging visual effect on all elements */
     html {
-      background-color: black;
       color: white;
       user-select: none;
+      background-color: black;
     }
     .container {
       display: flex;
-      position: relative;
     }
     table {
       aspect-ratio: 1 /1;
       width: 100vw;
       max-width: 100vh;
     }
-    td {
+    .square {
       color: black;
       padding: 0;
       margin: 0;
       background-color: white;
+      position: relative;
     }
     tr:nth-child(odd) td:nth-child(even),
     tr:nth-child(even) td:nth-child(odd) {
       background: green;
     }
-    p {
-      position: absolute;
+    .nomenclature {
       font-size: calc(0.25rem + 1.25vmin);
-    }
-    .pawn {
-      cursor: grab;
       position: absolute;
+    }
 
-
+    .pawn {
+      position: absolute;
+      cursor: grab;
+      z-index: 100;
+    }
+    .test {
+      position: absolute;
+      cursor: grab;
+      z-index: 100;
+      width: 20px;
+      height: 20px;
+      border-radius: 50px;
+      background-color: red;
     }
   </style>
-<link rel="preload" href="/chess-board-fea9734421c67fc0_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-fea9734421c67fc0.js"></head>
+<link rel="preload" href="/chess-board-41594c8eaad7fcc3_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-41594c8eaad7fcc3.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-fea9734421c67fc0.js';init('/chess-board-fea9734421c67fc0_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-41594c8eaad7fcc3.js';init('/chess-board-41594c8eaad7fcc3_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;

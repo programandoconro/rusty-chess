@@ -398,6 +398,14 @@ function getImports() {
         const ret = getObject(arg0).host;
         return addHeapObject(ret);
     };
+    imports.wbg.__wbg_x_27f93f6f6e631413 = function(arg0) {
+        const ret = getObject(arg0).x;
+        return ret;
+    };
+    imports.wbg.__wbg_y_880c54e7c3eec52e = function(arg0) {
+        const ret = getObject(arg0).y;
+        return ret;
+    };
     imports.wbg.__wbg_value_00fb0fdc46959169 = function(arg0, arg1) {
         const ret = getObject(arg1).value;
         const ptr0 = passStringToWasm0(ret, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
@@ -479,14 +487,6 @@ function getImports() {
     imports.wbg.__wbg_removeEventListener_b25f5db74f767386 = function() { return handleError(function (arg0, arg1, arg2, arg3, arg4) {
         getObject(arg0).removeEventListener(getStringFromWasm0(arg1, arg2), getObject(arg3), arg4 !== 0);
     }, arguments) };
-    imports.wbg.__wbg_pageX_fa6e927410d8f9a8 = function(arg0) {
-        const ret = getObject(arg0).pageX;
-        return ret;
-    };
-    imports.wbg.__wbg_pageY_fcdd161e44399498 = function(arg0) {
-        const ret = getObject(arg0).pageY;
-        return ret;
-    };
     imports.wbg.__wbg_parentNode_e81e6d5dc2fc35b0 = function(arg0) {
         const ret = getObject(arg0).parentNode;
         return isLikeNone(ret) ? 0 : addHeapObject(ret);
@@ -591,11 +591,11 @@ function getImports() {
     imports.wbg.__wbindgen_throw = function(arg0, arg1) {
         throw new Error(getStringFromWasm0(arg0, arg1));
     };
-    imports.wbg.__wbindgen_closure_wrapper4231 = function(arg0, arg1, arg2) {
+    imports.wbg.__wbindgen_closure_wrapper4243 = function(arg0, arg1, arg2) {
         const ret = makeMutClosure(arg0, arg1, 301, __wbg_adapter_16);
         return addHeapObject(ret);
     };
-    imports.wbg.__wbindgen_closure_wrapper4366 = function(arg0, arg1, arg2) {
+    imports.wbg.__wbindgen_closure_wrapper4378 = function(arg0, arg1, arg2) {
         const ret = makeMutClosure(arg0, arg1, 316, __wbg_adapter_19);
         return addHeapObject(ret);
     };
@@ -634,7 +634,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('chess-board-fea9734421c67fc0_bg.wasm', import.meta.url);
+        input = new URL('chess-board-41594c8eaad7fcc3_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
