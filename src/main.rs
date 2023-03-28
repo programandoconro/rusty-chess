@@ -2,7 +2,7 @@ use yew::prelude::*;
 mod board;
 mod piece;
 use piece::Pawn;
-use web_sys::{ MouseEvent};
+use web_sys::MouseEvent;
 use yew::{html, Callback};
 
 #[function_component]
