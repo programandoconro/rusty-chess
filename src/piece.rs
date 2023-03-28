@@ -2,13 +2,13 @@ use yew::prelude::*;
 use yew::{html, Callback};
 
 struct Coordinates {
-    x: i32,
-    y: i32,
+    x: Option<i32>,
+    y: Option<i32>,
 }
 
 #[function_component]
 pub fn Pawn() -> Html {
-    let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: 0, y: 0 });
+    let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: None, y: None });
     let is_dragging: UseStateHandle<bool> = use_state(|| false);
 
     let onmousedown: Callback<MouseEvent> = {
@@ -31,34 +31,38 @@ pub fn Pawn() -> Html {
         Callback::from(move |event: MouseEvent| -> () {
             event.prevent_default();
             let x = event.client_x() - 30;
-            let y = event.client_y()- 30;
+            let y = event.client_y() - 30;
             //web_sys::console::log_1(&x.to_string().into());
             if *is_dragging == true {
-                coordinates.set(Coordinates { x, y });
+                coordinates.set(Coordinates {
+                    x: Some(x),
+                    y: Some(y),
+                });
             }
         })
     };
 
-    let set_position = || -> String {
-        let coordinates = coordinates.clone();
-
-        if coordinates.x != 0 && coordinates.y != 0 {
-            format!("left: {}px; top: {}px;", coordinates.x, coordinates.y)
-        } else {
-            "".to_string()
+    let set_position = || -> Option<String> {
+        match coordinates.x.is_some() && coordinates.y.is_some() {
+            true => Some(format!(
+                "left: {}px; top: {}px;",
+                coordinates.x.unwrap(),
+                coordinates.y.unwrap()
+            )),
+            false => None,
         }
     };
 
     html! {
-        <div
+        
+        <img
         class="pawn"
         onmouseleave={onmouseup.clone()}
         onmousedown={onmousedown}
         onmouseup={onmouseup}
         onmousemove={onmousemove}
-        style={set_position()}>
-         <img src="img/pawn.png" width="50px" height="50px" />
-        </div>
+        style={set_position()}
+        src="img/pawn.png" width="50px" height="50px" />
 
     }
 }
