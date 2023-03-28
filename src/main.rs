@@ -41,12 +41,12 @@ fn App() -> Html {
 
     html! {
         <div class={".container"}>
+
         <table>
             {
             for board::create_board(*is_flipped).iter().map(render_squares).rev()
             }
         </table>
-
         <aside>
         <button onclick={onclick}>{"Flip"}</button>
         </aside>

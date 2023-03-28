@@ -21,7 +21,6 @@
       padding: 0;
       margin: 0;
       background-color: white;
-      position: relative;
     }
     tr:nth-child(odd) td:nth-child(even),
     tr:nth-child(even) td:nth-child(odd) {
@@ -37,21 +36,12 @@
       cursor: grab;
       z-index: 100;
     }
-    .test {
-      position: absolute;
-      cursor: grab;
-      z-index: 100;
-      width: 20px;
-      height: 20px;
-      border-radius: 50px;
-      background-color: red;
-    }
   </style>
-<link rel="preload" href="/chess-board-1c55a845aad42318_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-1c55a845aad42318.js"></head>
+<link rel="preload" href="/chess-board-a234e7f18bb6127_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-a234e7f18bb6127.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-1c55a845aad42318.js';init('/chess-board-1c55a845aad42318_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-a234e7f18bb6127.js';init('/chess-board-a234e7f18bb6127_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;
