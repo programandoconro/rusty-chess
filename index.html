@@ -3,24 +3,24 @@
   <head>
     <meta charset="utf-8" />
     <title>Yew App</title>
+    <link data-trunk rel="copy-dir" href="img" />
   </head>
   <style>
     /* Disable dragging visual effect on all elements */
     html {
-      background-color: black;
       color: white;
       user-select: none;
+      background-color: black;
     }
     .container {
       display: flex;
-      position: relative;
     }
     table {
       aspect-ratio: 1 /1;
       width: 100vw;
       max-width: 100vh;
     }
-    td {
+    .square {
       color: black;
       padding: 0;
       margin: 0;
@@ -30,19 +30,15 @@
     tr:nth-child(even) td:nth-child(odd) {
       background: green;
     }
-    p {
-      position: absolute;
+    .nomenclature {
       font-size: calc(0.25rem + 1.25vmin);
-    }
-    .pawn {
-      width: 50px;
-      height: 50px;
-      background-color: black;
-      cursor: grab;
       position: absolute;
-      left: 50px;
-      top: 50px;
-      border-radius: 50%;
+    }
+
+    .pawn {
+      position: absolute;
+      cursor: grab;
+      z-index: 100;
     }
   </style>
 </html>
