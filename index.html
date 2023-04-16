@@ -11,34 +11,34 @@
       color: white;
       user-select: none;
       background-color: black;
-    }
-    .container {
-      display: flex;
+      position: relative;
     }
     table {
       aspect-ratio: 1 /1;
       width: 100vw;
       max-width: 100vh;
-    }
-    .square {
+      background-color: gray;
       color: black;
-      padding: 0;
-      margin: 0;
-      background-color: white;
+      font-size: calc(0.25rem + 1.25vmin);
+      position: absolute;
     }
+
     tr:nth-child(odd) td:nth-child(even),
     tr:nth-child(even) td:nth-child(odd) {
       background: green;
     }
     .nomenclature {
-      font-size: calc(0.25rem + 1.25vmin);
       position: absolute;
     }
 
     .pawn {
       position: absolute;
       cursor: grab;
+      width: 10%;
+      height: 10%;
+      border-radius: 50%;
       z-index: 100;
+      background-color: red;
     }
   </style>
 </html>

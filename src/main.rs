@@ -2,7 +2,7 @@ use yew::prelude::*;
 mod board;
 mod piece;
 use piece::Pawn;
-use web_sys::MouseEvent;
+use web_sys::{HtmlElement, MouseEvent};
 use yew::{html, Callback};
 
 #[function_component]
@@ -16,13 +16,36 @@ fn App() -> Html {
         })
     };
 
+    let table_ref = use_node_ref();
+    let width = use_state(|| 1);
+    let height = use_state(|| 1);
+
+    {
+        let table_ref = table_ref.clone();
+        let width = width.clone();
+        let height = height.clone();
+        use_effect_with_deps(
+            move |table_ref| {
+                let table = table_ref
+                    .cast::<HtmlElement>()
+                    .expect("div_ref not attached to div element");
+
+                width.set(table.client_width());
+                height.set(table.client_height());
+            },
+            table_ref,
+        );
+    }
+
     let set_pawn = |square: &String| -> Html {
         if square.ends_with("7") {
             html! {
-               <Pawn />
+                <>
+               <Pawn width={*width} height={*height} />
+               </>
             }
         } else {
-            html! {}
+            html! {<></>}
         }
     };
 
@@ -32,7 +55,7 @@ fn App() -> Html {
                 {
                     for squares.iter().map(|square|
                     html!{
-                        <td class="square"><p class="nomenclature">{square} </p> {set_pawn(square)}</td>
+                        <td ><p class="nomenclature">{square} </p> {set_pawn(square)}</td>
                     })
                 }
             </tr>
@@ -40,16 +63,16 @@ fn App() -> Html {
     };
 
     html! {
-        <div class={".container"}>
+        <div >
+                <button onclick={onclick}>{"Flip"}</button>
 
-        <table>
-            {
-            for board::create_board(*is_flipped).iter().map(render_squares).rev()
-            }
-        </table>
-        <aside>
-        <button onclick={onclick}>{"Flip"}</button>
-        </aside>
+            <table ref={table_ref}>
+                <tbody>
+                    {
+                    for board::create_board(*is_flipped).iter().map(render_squares).rev()
+                    }
+                </tbody>
+            </table>
         </div>
     }
 }
