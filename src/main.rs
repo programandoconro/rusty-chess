@@ -1,13 +1,17 @@
+use wasm_bindgen::{prelude::Closure, JsCast};
 use yew::prelude::*;
 mod board;
 mod piece;
 use piece::Pawn;
-use web_sys::{HtmlElement, MouseEvent};
+use web_sys::{window, HtmlElement, MouseEvent};
 use yew::{html, Callback};
 
 #[function_component]
 fn App() -> Html {
     let is_flipped: UseStateHandle<bool> = use_state(|| false);
+    let table_ref = use_node_ref();
+    let width = use_state(|| 1);
+    let height = use_state(|| 1);
     let onclick: Callback<MouseEvent> = {
         let is_flipped: UseStateHandle<bool> = is_flipped.clone();
         Callback::from(move |_| match *is_flipped {
@@ -16,26 +20,47 @@ fn App() -> Html {
         })
     };
 
-    let table_ref = use_node_ref();
-    let width = use_state(|| 1);
-    let height = use_state(|| 1);
-
     {
         let table_ref = table_ref.clone();
         let width = width.clone();
         let height = height.clone();
         use_effect_with_deps(
-            move |table_ref| {
+            |table_ref| {
                 let table = table_ref
                     .cast::<HtmlElement>()
                     .expect("div_ref not attached to div element");
+                {
+                    let table = table_ref
+                        .cast::<HtmlElement>()
+                        .expect("div_ref not attached to div element");
 
-                width.set(table.client_width());
-                height.set(table.client_height());
+                    width.set(table.client_width());
+                    height.set(table.client_height());
+                }
+                let listener = Closure::<dyn Fn(Event)>::wrap(Box::new(move |_| {
+                    let x = table.client_width();
+                    let y = table.client_height();
+                    //web_sys::console::log_1(&"update".to_string().into());
+                    width.set(x);
+                    height.set(y);
+                }));
+                let window = window().unwrap();
+                window
+                    .add_event_listener_with_callback("resize", listener.as_ref().unchecked_ref())
+                    .ok();
+
+                move || {
+                    window
+                        .remove_event_listener_with_callback(
+                            "resize",
+                            listener.as_ref().unchecked_ref(),
+                        )
+                        .ok();
+                }
             },
             table_ref,
         );
-    }
+    };
 
     let set_pawn = |square: &String| -> Html {
         if square.ends_with("7") {
@@ -63,8 +88,7 @@ fn App() -> Html {
     };
 
     html! {
-        <div >
-                <button onclick={onclick}>{"Flip"}</button>
+        <div>
 
             <table ref={table_ref}>
                 <tbody>
@@ -73,6 +97,7 @@ fn App() -> Html {
                     }
                 </tbody>
             </table>
+                <button onclick={onclick}>{"Flip"}</button>
         </div>
     }
 }
