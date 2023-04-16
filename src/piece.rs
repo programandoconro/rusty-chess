@@ -6,8 +6,14 @@ struct Coordinates {
     y: Option<i32>,
 }
 
+#[derive(Properties, Clone, PartialEq)]
+pub struct Props {
+    pub width: i32,
+    pub height: i32,
+}
+
 #[function_component]
-pub fn Pawn() -> Html {
+pub fn Pawn(props: &Props) -> Html {
     let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: None, y: None });
     let is_dragging: UseStateHandle<bool> = use_state(|| false);
 
@@ -27,16 +33,20 @@ pub fn Pawn() -> Html {
     };
     let onmousemove: Callback<MouseEvent> = {
         let coordinates: UseStateHandle<Coordinates> = coordinates.clone();
+        let props = props.clone();
 
         Callback::from(move |event: MouseEvent| -> () {
             event.prevent_default();
-            let x = event.client_x() - 30;
-            let y = event.client_y() - 30;
-            //web_sys::console::log_1(&x.to_string().into());
+
             if *is_dragging == true {
+                let x = ((event.page_x() - 30) as f64 / props.width as f64) * 100.0;
+
+                let y = ((event.page_y() - 40) as f64 / props.height as f64) * 100.0;
+
+                //web_sys::console::log_1(&y.to_string().into());
                 coordinates.set(Coordinates {
-                    x: Some(x),
-                    y: Some(y),
+                    x: Some(x as i32),
+                    y: Some(y as i32),
                 });
             }
         })
@@ -45,7 +55,7 @@ pub fn Pawn() -> Html {
     let set_position = || -> Option<String> {
         match coordinates.x.is_some() && coordinates.y.is_some() {
             true => Some(format!(
-                "left: {}px; top: {}px;",
+                "left: {}%; top: {}%;",
                 coordinates.x.unwrap(),
                 coordinates.y.unwrap()
             )),
@@ -54,15 +64,15 @@ pub fn Pawn() -> Html {
     };
 
     html! {
-        
-        <img
+
+        <div
         class="pawn"
         onmouseleave={onmouseup.clone()}
         onmousedown={onmousedown}
         onmouseup={onmouseup}
         onmousemove={onmousemove}
         style={set_position()}
-        src="img/pawn.png" width="50px" height="50px" />
+        > </div>
 
     }
 }
