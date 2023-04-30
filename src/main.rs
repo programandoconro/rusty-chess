@@ -65,9 +65,11 @@ fn App() -> Html {
     let set_pawn = |square: &String| -> Html {
         if square.ends_with("7") {
             html! {
-                <>
                <Piece width={*width} height={*height} src={"img/pawn-black.png".to_string()} />
-               </>
+            }
+        } else if square.ends_with("2") {
+            html! {
+               <Piece width={*width} height={*height} src={"img/pawn-white.png".to_string()} />
             }
         } else {
             html! {<></>}
