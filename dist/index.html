@@ -26,6 +26,10 @@
     .nomenclature {
       position: absolute;
     }
+    td {
+      text-align: center;
+      vertical-align: middle;
+    }
 
     .piece {
       position: absolute;
@@ -33,13 +37,14 @@
       width: 10%;
       height: 10%;
       z-index: 100;
+      transform: translate(-50%, -50%);
     }
   </style>
-<link rel="preload" href="/chess-board-6714a63b86cafbb_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-6714a63b86cafbb.js"></head>
+<link rel="preload" href="/chess-board-1071ccf8843d5f0e_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-1071ccf8843d5f0e.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-6714a63b86cafbb.js';init('/chess-board-6714a63b86cafbb_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-1071ccf8843d5f0e.js';init('/chess-board-1071ccf8843d5f0e_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;

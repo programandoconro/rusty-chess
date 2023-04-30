@@ -40,9 +40,9 @@ pub fn Piece(props: &Props) -> Html {
             event.prevent_default();
 
             if *is_dragging == true {
-                let x = ((event.page_x() - 30) as f64 / props.width as f64) * 100.0;
+                let x = ((event.page_x()) as f64 / props.width as f64) * 100.0;
 
-                let y = ((event.page_y() - 40) as f64 / props.height as f64) * 100.0;
+                let y = ((event.page_y()) as f64 / props.height as f64) * 100.0;
 
                 //web_sys::console::log_1(&y.to_string().into());
                 coordinates.set(Coordinates {

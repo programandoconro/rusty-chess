@@ -82,7 +82,7 @@ fn App() -> Html {
                 {
                     for squares.iter().map(|square|
                     html!{
-                        <td ><p class="nomenclature">{square} </p> {set_pawn(square)}</td>
+                        <td >{set_pawn(square)}</td>
                     })
                 }
             </tr>
