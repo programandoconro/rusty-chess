@@ -36,15 +36,18 @@
       cursor: grab;
       width: 10%;
       height: 10%;
-      z-index: 100;
       transform: translate(-50%, -50%);
+      z-index: 1;
+    }
+    .piece:active {
+      z-index: 2;
     }
   </style>
-<link rel="preload" href="/chess-board-d840ac6b5bcb9189_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/chess-board-d840ac6b5bcb9189.js"></head>
+<link rel="preload" href="/chess-board-3edf76ee1db80050_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/chess-board-3edf76ee1db80050.js"></head>
   
 <body>
-<script type="module">import init from '/chess-board-d840ac6b5bcb9189.js';init('/chess-board-d840ac6b5bcb9189_bg.wasm');</script><script>(function () {
+<script type="module">import init from '/chess-board-3edf76ee1db80050.js';init('/chess-board-3edf76ee1db80050_bg.wasm');</script><script>(function () {
     var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;

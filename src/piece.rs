@@ -17,12 +17,15 @@ pub struct Props {
 pub fn Piece(props: &Props) -> Html {
     let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: None, y: None });
     let is_dragging: UseStateHandle<bool> = use_state(|| false);
+    let z_index: UseStateHandle<i32> = use_state(|| 99);
 
     let onmousedown: Callback<MouseEvent> = {
         let is_dragging: UseStateHandle<bool> = is_dragging.clone();
+        let z_index = z_index.clone();
         Callback::from(move |event: MouseEvent| -> () {
             event.prevent_default();
             is_dragging.set(true);
+            z_index.set(1000);
         })
     };
     let onmouseup: Callback<MouseEvent> = {
@@ -56,9 +59,10 @@ pub fn Piece(props: &Props) -> Html {
     let set_position = || -> Option<String> {
         match coordinates.x.is_some() && coordinates.y.is_some() {
             true => Some(format!(
-                "left: {}%; top: {}%;",
+                "left: {}%; top: {}%; zindex: {}",
                 coordinates.x.unwrap(),
-                coordinates.y.unwrap()
+                coordinates.y.unwrap(),
+                *z_index
             )),
             false => None,
         }
