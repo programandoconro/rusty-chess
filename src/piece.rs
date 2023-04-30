@@ -10,10 +10,11 @@ struct Coordinates {
 pub struct Props {
     pub width: i32,
     pub height: i32,
+    pub src: String,
 }
 
 #[function_component]
-pub fn Pawn(props: &Props) -> Html {
+pub fn Piece(props: &Props) -> Html {
     let coordinates: UseStateHandle<Coordinates> = use_state(|| Coordinates { x: None, y: None });
     let is_dragging: UseStateHandle<bool> = use_state(|| false);
 
@@ -65,14 +66,14 @@ pub fn Pawn(props: &Props) -> Html {
 
     html! {
 
-        <div
-        class="pawn"
-        onmouseleave={onmouseup.clone()}
-        onmousedown={onmousedown}
-        onmouseup={onmouseup}
-        onmousemove={onmousemove}
-        style={set_position()}
-        > </div>
+        <img
+            class="piece" src={props.src.clone()}
+            style={set_position()}
+            onmouseleave={onmouseup.clone()}
+            onmousedown={onmousedown}
+            onmouseup={onmouseup}
+            onmousemove={onmousemove}
+         />
 
     }
 }

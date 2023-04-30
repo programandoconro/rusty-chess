@@ -2,7 +2,7 @@ use wasm_bindgen::{prelude::Closure, JsCast};
 use yew::prelude::*;
 mod board;
 mod piece;
-use piece::Pawn;
+use piece::Piece;
 use web_sys::{window, HtmlElement, MouseEvent};
 use yew::{html, Callback};
 
@@ -66,7 +66,7 @@ fn App() -> Html {
         if square.ends_with("7") {
             html! {
                 <>
-               <Pawn width={*width} height={*height} />
+               <Piece width={*width} height={*height} src={"img/pawn-black.png".to_string()} />
                </>
             }
         } else {
