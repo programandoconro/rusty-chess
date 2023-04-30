@@ -63,7 +63,47 @@ fn App() -> Html {
     };
 
     let set_pawn = |square: &String| -> Html {
-        if square.ends_with("7") {
+        if square == "e8" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/king-black.png".to_string()} />
+            }
+        } else if square == "e1" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/king-white.png".to_string()} />
+            }
+        } else if square == "d8" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/queen-black.png".to_string()} />
+            }
+        } else if square == "d1" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/queen-white.png".to_string()} />
+            }
+        } else if square == "a8" || square == "h8" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/rook-black.png".to_string()} />
+            }
+        } else if square == "a1" || square == "h1" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/rook-white.png".to_string()} />
+            }
+        } else if square == "f8" || square == "c8" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/bishop-black.png".to_string()} />
+            }
+        } else if square == "f1" || square == "c1" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/bishop-white.png".to_string()} />
+            }
+        } else if square == "g8" || square == "b8" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/knight-black.png".to_string()} />
+            }
+        } else if square == "g1" || square == "b1" {
+            html! {
+               <Piece width={*width} height={*height} src={"img/knight-white.png".to_string()} />
+            }
+        } else if square.ends_with("7") {
             html! {
                <Piece width={*width} height={*height} src={"img/pawn-black.png".to_string()} />
             }
